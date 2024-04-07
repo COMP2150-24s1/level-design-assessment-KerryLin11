@@ -222,10 +222,25 @@ Iterative design has helped thoroughly when it came to introducing new elements 
     On paper this seemed like a very intuitive way to introduce enemies and combat to the player but it didn't work out the way I wanted when I implemented it. The main issue arose with the dramatic tension.
 
 
-    Below is an image of the main crisis of the game
+    Below is an image of the main crisis of the game.
 
 ![](DocImages/1.4_3.png)
 
+    As soon as the player falls to the bottom they have to deal with learning the new combat mechanics. In terms of pacing, it doesn't make much sense.
+
+    Instead I opted to give the player a sense of relief first in the form of a checkpoint and let them explore the combat mechanics in their own pace.
+
+![](DocImages/4_1.png)
+
+Noticing the initial flaw in the sequence of introducing combat mechanics right after a significant crisis moment, I iterated on the level design in several other areas to provide a more cohesive and engaging experience for the player. With the strategic placement of combat encounters I provide a moment of relief aimed to create a smoother transition that enhances the overall player experience. 
+
+The iterative process involved not only identifying the problem but also brainstorming and testing various solutions to find the most effective one. I found that with external playtesting, the pacing of the level got significantly slowed down by the introduction of secret areas
+
+![](DocImages/1.4_2.png)
+
+This again was a significant factor in shaping the level design, as I had to strategically speed up and slow down different areas of play in order to account for exploration. 
+
+I ended up shaping the entire theme of the level design to focus around speedy movement and dynamic platforming with the moving platform asset. This is the main factor that was never noticed during storyboarding and was the biggest contributing factor to the level design's success.
 
 ## Generative AI Use Acknowledgement
 None
